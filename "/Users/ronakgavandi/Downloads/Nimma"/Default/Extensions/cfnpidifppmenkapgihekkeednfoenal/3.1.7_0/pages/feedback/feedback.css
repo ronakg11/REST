@@ -1,0 +1,425 @@
+html,
+body {
+    width: auto;
+    /* height: 450pt !important; */
+    margin: 0px;
+  }
+
+.main {
+    width: 300pt;
+    /* height: 448pt !important; */
+    border: 1pt solid rgba(169, 169, 169, 0.5);
+    border-radius: 3pt;
+    box-shadow: 0pt 2pt 9pt 0pt rgba(0, 0, 0, 0.21);
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+    background-color: rgb(249, 251, 255);
+}
+
+.container_top {
+    width: 300pt;
+    height: 48pt;
+    /* border-radius: 3pt; */
+    box-shadow: 0pt 4pt 8pt 0pt rgba(7, 20, 45, 0.06);
+    background-color: rgb(255, 255, 255);
+}
+
+.tl_logo {
+    position: relative;
+    top: 12pt;
+    left: 12pt;
+    background-image: url(../../img/logo-tll.svg);
+    background-repeat: no-repeat;
+    background-size: 24pt 24pt;
+    border-radius: 3.1pt;
+    padding-left: 33pt;
+    width: 161pt;
+}
+
+#web_protection_text {
+    font-family: 'SFProText-Regular';
+    font-size: 10.5pt;
+    color: rgb(7, 20, 45);
+}
+
+#company_name {
+    font-family: 'SFProText-Bold';
+    font-size: 10.5pt;
+    color: rgb(7, 20, 45);
+}
+
+.settings_link {
+    width: 18pt;
+    height: 18pt;
+    background-repeat: no-repeat;
+    background-size: 18pt 18pt;
+    position: relative;
+    bottom: 10pt;
+    right: 10pt;
+    float: right;
+
+    background-image: url(../../img/settings-icon_light.svg);
+}
+
+.settings_link:hover {
+    background-image: url(../../img/settings-icon-hover_light.svg);
+}
+
+#back_arrow {
+    position: relative;
+    /* z-index: 999999999999999999999; */
+    left: 18pt;
+    top: 32pt;
+}
+  
+.back_arrow {
+    background-repeat: no-repeat;
+    background-size: 8pt 12pt;
+    width: 8pt;
+    height: 12pt;
+    position: relative;
+    z-index: 999999999;
+    background-image: url(../../img/back_arrow_light.svg);
+    /* position: relative;
+    top: 21pt;
+    left: 18.75pt; */
+}
+
+.feedback_title {
+    font-family: 'SFProText-Regular';
+    font-size: 18pt;
+    font-weight: bold;
+    position: relative;
+    top: 15pt;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(7, 20, 45);
+}
+
+.BDTLL_feedback_outer {
+    background-image: url(../../img/feedback_o_layer.png);
+    display:block;
+    position:fixed;
+    width:100%;
+    height:100%;
+    z-index:9999999999;
+    left:0;
+    top:0;
+}
+
+.BDTLL_feedback_container {
+    width: 300pt;
+    font-family: "SFProText-Regular";
+    text-align: left;
+}
+
+.BDTLL_feedback_header {
+    background-image: url(../../img/bitdefender_logo.svg);
+    height: 39px;
+    background-color: #252628;
+    border-radius: 3px 2px 0 0;
+    margin: 0;
+    line-height:39px;
+    color: #bbc7d4;
+    font-size: 14px;
+    background-size: 85px 14px;
+    background-position: 20px 12px;
+    background-repeat: no-repeat;
+    padding-left: 110px;
+    position: relative;
+}
+
+.BDTLL_feedback_close {
+    background-image: url(../../img/close.svg);
+    width: 39px;
+    height: 39px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.BDTLL_feedback_content {
+    width: 350px;
+    height: 448px; /*auto*/
+    margin: 30pt auto 0pt auto;
+}
+
+.BDTLL_email_title {
+    font-family: 'SFProText-Regular';
+    font-size: 10.5pt;
+    color: rgb(81, 91, 109);
+}
+
+.BDTLL_description_title {
+    font-family: 'SFProText-Regular';
+    font-size: 10.5pt;
+    color: rgb(81, 91, 109);
+}
+
+.BDTLL_feedback_heading {
+    font-size: 24px;
+    text-align:center;
+    color: #252628;
+}
+
+.BDTLL_invalid_input_email {
+    font-size: 9pt;
+    color: rgb(236, 28, 36);
+    margin-top: 2pt;
+    margin-bottom: 5.5pt;
+}
+
+.BDTLL_feedback_input {
+    font-family: 'SFProText-Regular';
+    font-size: 10.5pt;
+    line-height: 16pt;
+    height: 24pt;
+    margin: 9pt 0pt 18pt 0pt;
+    padding: 0 11pt;
+    border-radius: 3pt;
+    width: 318px;
+    color: rgb(7, 20, 45);
+    background-color: white;
+    border: 1pt solid rgb(158, 159, 164);
+}
+
+.BDTLL_invalid_feedback_message {
+    font-size: 9pt;
+    color: rgb(236, 28, 36);
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+
+.BDTLL_feedback_textarea {
+    font-family: 'SFProText-Regular';
+    font-size: 10.5pt;
+    line-height: 16pt;
+    border-radius: 3pt;
+    padding: 12pt 10pt;
+    width: 320px;
+    height: 133px;
+    margin-top: 9pt;
+    margin-bottom: 15pt;
+    resize: none;
+    color: rgb(7, 20, 45);
+    background-color: white;
+    border: 1pt solid rgb(158, 159, 164);
+}
+
+.BDTLL_feedback_send {
+    height: 24pt;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 10.5pt;
+    line-height: 24pt;
+    text-align: center;
+    margin: 30px 0px 0px 216px;
+    cursor: pointer;
+    width: 100pt;
+    background-color: rgb(0, 94, 255);
+}
+
+.BDTLL_feedback_link {
+    display: inline-block;
+    font-family: 'SFProText-Regular';
+    font-size: 9pt;
+    border-radius: 3pt;
+    padding: 7pt 7pt;
+    width: 333px;
+    height: 15pt;
+    overflow: hidden;
+    color: rgb(81, 91, 109);
+    background-color: rgb(237, 237, 238);
+}
+
+.BDTLL_check_include_link_containter {
+    margin-top: 3pt;
+}
+
+.BDTLL_feedback_check {
+    visibility:collapse;
+    position:absolute;
+}
+
+.BDTLL_feedback_label {
+    line-height: 20px;
+    vertical-align: top;
+    display: inline-block;
+    font-size: 10.5pt;
+    padding-left: 30px;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 0 center;
+    user-select: none;
+    cursor: pointer;
+    color: rgb(64, 64, 64);
+}
+
+.BDTLL_submit_result_ok {
+    position: absolute;
+    bottom: 14pt;
+    left: 335px;
+    background-repeat: no-repeat;
+    background-size: 36px 26px;
+    width: 36px;
+    height: 26px;
+    z-index: 999999999;
+    background-image: url(../../img/done_light.svg);
+}
+
+.BDTLL_submit_result_failed {
+    position: relative;
+    bottom: 19pt;
+    font-family: 'SFProText-Regular';
+    font-size: 10pt;
+    color: red;
+}
+
+.hide {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 1.5s, opacity 1.5s linear;
+}
+
+.check-off {
+    background-image: url(../../img/check-off_light.svg);
+}
+
+.check-on {
+    background-image: url(../../img/check-on_light.svg);
+}
+
+.loader {
+    position: absolute;
+    bottom: 12pt; /*20pt*/
+    left: 257pt; /*152pt*/
+    background-repeat: no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    visibility: hidden;
+    animation: spin 1s linear infinite;
+    background-image: url(../../img/loader_light.svg);
+}
+
+.animate-in {
+    -webkit-animation: fadeIn .5s ease-in;
+    animation: fadeIn .5s ease-in;
+  }
+  
+.animate-out {
+    -webkit-transition: opacity .5s;
+    transition: opacity .5s;
+    opacity: 0;
+}
+
+@-webkit-keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@-moz-document url("about:blank") {
+	html {
+	  background-color: rgb(40,40,40);
+	}
+}
+
+@-moz-document url(about:newtab) {
+	body, #newtab-customize-overlay {
+       background-color: rgb(40,40,40) !important;
+       color: rgb(166,166,166) !important;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    html, body {
+      background-color: rgb(7, 20, 45);
+    }
+
+    .main {
+      background-color: rgb(7, 20, 45);
+    }
+  
+    .container_top {
+      background-color: rgb(56, 67, 87);
+    }
+  
+    #web_protection_text, #company_name {
+      color: rgb(239, 241, 249);
+    }
+  
+    .settings_link {
+      background-image: url(../../img/settings-icon-dark.svg);
+    }
+
+    .settings_link:hover {
+        background-image: url(../../img/settings-icon-hover_dark.svg);
+    }
+
+    .back_arrow {
+        background-image: url(../../img/back_arrow_dark.svg);
+    }
+
+    .feedback_title {
+        color: rgb(255, 255, 255);
+    }
+
+    .BDTLL_email_title, .BDTLL_description_title {
+        color: rgb(217, 217, 217);
+    }
+
+    .BDTLL_feedback_input, .BDTLL_feedback_textarea {
+        color: rgb(255, 255, 255);
+        background-color: rgba(56, 67, 87, 0.1);
+        border: 1pt solid rgb(81, 91, 109);
+    }
+
+    .BDTLL_feedback_link {
+        color: rgb(255, 255, 255);
+        background-color: rgba(81, 91, 87, 0.11);
+    }
+
+    .BDTLL_feedback_label {
+        color: rgb(239, 241, 249);
+    }
+
+    .BDTLL_feedback_send {
+        background-color: rgb(45, 123, 254);
+    }
+
+    .BDTLL_submit_result_ok {
+        background-image: url(../../img/done_dark.svg);
+    }
+
+    .check-off {
+        background-image: url(../../img/check-off_dark.svg);
+    }
+    
+    .check-on {
+        background-image: url(../../img/check-on_dark.svg);
+    }
+
+    .loader {
+        background-image: url(../../img/loader_dark.svg);
+    }
+  }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Buttons / loader / dark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Buttons-/-loader-/-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,0 C5.85631579,0 2.29421053,2.53368421 0.778947368,6.13315789 L3.98789474,6.73631579 C5.14894737,4.60631579 7.40842105,3.15789474 10,3.15789474 C13.7726316,3.15789474 16.8421053,6.22736842 16.8421053,10 C16.8421053,13.7726316 13.7726316,16.8421053 10,16.8421053 C6.33947368,16.8421053 3.34947368,13.95 3.17473684,10.3321053 L0.0131578947,9.73789474 C0.0110526316,9.82578947 0,9.91157895 0,10 C0,15.5142105 4.48578947,20 10,20 C15.5142105,20 20,15.5142105 20,10 C20,4.48578947 15.5142105,0 10,0" id="Fill-1" fill="#2D7BFE"></path>
+    </g>
+</svg>

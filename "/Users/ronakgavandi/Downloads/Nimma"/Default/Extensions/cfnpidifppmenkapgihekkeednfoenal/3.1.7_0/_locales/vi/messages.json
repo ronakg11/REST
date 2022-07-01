@@ -1,0 +1,209 @@
+{
+   "alert_ignore": {
+      "message": "Tôi hiểu các rủi ro, để tôi đến đó"
+   },
+   "alert_take_to_safety": {
+      "message": "Giữ cho tôi an toàn"
+   },
+   "blocked_text_fraud": {
+      "message": "Các trang gian lận thường cố lừa bạn gửi tiền với mục đích bất hợp pháp."
+   },
+   "blocked_text_malware": {
+      "message": "Các trang độc hại cố cài đặt phần mềm có thể gây hại cho thiết bị, thu thập thông tin cá nhân hoặc hoạt động mà không có sự đồng ý của người dùng."
+   },
+   "blocked_text_miner": {
+      "message": "Các trang khai thác sử dụng tài nguyên của thiết bị để khai thác tiền điện tử, ảnh hưởng đến khả năng sử dụng và tuổi thọ phần cứng của thiết bị."
+   },
+   "blocked_text_phish": {
+      "message": "Các trang lừa đảo cố lấy các thông tin nhạy cảm như thông tin đăng nhập hoặc chi tiết thẻ tín dụng bằng cách giả dạng các trang web lớn. Dữ liệu bị đánh cắp có thể được sử dụng để đánh cắp tài chính."
+   },
+   "blocked_text_pua": {
+      "message": "Trang này đã cố tải xuống PUA (Ứng dụng không mong muốn) về thiết bị của bạn. Loại ứng dụng này thể hiện các hành vi ảnh hưởng đến quyền riêng tư và bảo mật của thiết bị và dữ liệu của bạn."
+   },
+   "blocked_title_fraud": {
+      "message": "Trang gian lận đã bị chặn để bảo vệ bạn"
+   },
+   "blocked_title_malware": {
+      "message": "Trang nguy hiểm bị chặn để bảo vệ bạn"
+   },
+   "blocked_title_miner": {
+      "message": "Trang nguy hiểm bị chặn để bảo vệ bạn"
+   },
+   "blocked_title_phish": {
+      "message": "Trang lừa đảo bị chặn để bảo vệ bạn"
+   },
+   "blocked_title_pua": {
+      "message": "Tải xuống đã bị chặn để bảo vệ bạn"
+   },
+   "checkbox_link_feedback": {
+      "message": "Bao gồm liên kết trang web"
+   },
+   "extName": {
+      "message": "Bitdefender TrafficLight thêm lớp bảo mật mạnh mẽ và không xâm nhập vào trải nghiệm duyệt web của bạn."
+   },
+   "extension_name": {
+      "message": "Bitdefender TrafficLight"
+   },
+   "feedback_description_title": {
+      "message": "Mô tả"
+   },
+   "feedback_mail": {
+      "message": "Địa chỉ thư điện tử"
+   },
+   "feedback_message": {
+      "message": "Nhập một đề nghị hoặc mô tả một vấn đề bạn đã gặp phải."
+   },
+   "feedback_title": {
+      "message": "Phản hồi"
+   },
+   "footer_feedback_note": {
+      "message": "Gặp một vấn đề?"
+   },
+   "invalid_email_text": {
+      "message": "Vui lòng nhập một địa chỉ email"
+   },
+   "link_feedback": {
+      "message": "Gửi phản hồi"
+   },
+   "popup_settings": {
+      "message": "Cài đặt"
+   },
+   "popup_text_safe": {
+      "message": "Chúng tôi không tìm thấy bất kỳ yếu tố nghi ngờ nào trên trang này."
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "Thêm hoặc xóa thủ công các trang web dưới đây:"
+   },
+   "settings_current_website_add_title": {
+      "message": " Thêm trang web hiện tại vào danh sách"
+   },
+   "settings_exceptions_title": {
+      "message": "Ngoại trừ"
+   },
+   "settings_search_text": {
+      "message": "Kiểm tra kết quả tìm kiếm để cảnh báo chống lại các trang web nguy hiểm trước khi bạn truy cập chúng."
+   },
+   "settings_search_title": {
+      "message": "Cố vấn Tìm kiếm"
+   },
+   "settings_threat_text": {
+      "message": "Kiểm tra mọi trang web bạn truy cập để tìm kiếm các mối đe dọa, lừa đảo."
+   },
+   "settings_threat_title": {
+      "message": "Bảo vệ Web"
+   },
+   "settings_tooltip_text": {
+      "message": "Xóa trang web khỏi danh sách"
+   },
+   "started_feedback_text": {
+      "message": "Chúng tôi thực sự mong muốn có bất kỳ và tất cả các đề xuất từ người dùng. Sử dụng mẫu phản hồi để liên lạc với chúng tôi."
+   },
+   "started_feedback_title": {
+      "message": "Gửi phản hồi"
+   },
+   "started_search_text": {
+      "message": "TrafficLight đánh dấu nguy hiểm và trang web gian lận trong kết quả tìm kiếm."
+   },
+   "started_search_title": {
+      "message": "Cung cấp cảnh báo trước về các trang web nguy hiểm trong kết quả tìm kiếm của bạn"
+   },
+   "started_threat_text": {
+      "message": "TrafficLight kiểm tra và chặn các trang mà bạn truy cập để tìm kiếm mối đe dọa trực tuyến, lừa đảo và gian lận mỗi lần bạn truy cập chúng."
+   },
+   "started_threat_title": {
+      "message": "Bảo vệ chống lại các mối đe dọa trực tuyến, các cuộc tấn công lừa đảo và gian lận"
+   },
+   "started_tracker_text": {
+      "message": "Trình theo dõi là những đoạn mã được bao gồm trong các trang web theo dõi và phân tích hành vi duyệt web của bạn. TrafficLight nhanh chóng xác định và liệt kê chúng."
+   },
+   "started_tracker_title": {
+      "message": "Xác định các trình theo dõi báo cáo về hành vi duyệt web của bạn"
+   },
+   "started_welcome_text": {
+      "message": "Sử dụng TrafficLight để thêm lớp bảo mật mạnh mẽ và không xâm nhập vào trải nghiệm duyệt web của bạn."
+   },
+   "submit_result_failed_text": {
+      "message": "Gửi thất bại"
+   },
+   "text_disabled_recommend": {
+      "message": "Đi tới Cài đặt để bật."
+   },
+   "text_disabled_search_analyzer": {
+      "message": "Cố vấn tìm kiếm bị vô hiệu hóa. Đi đến cài đặt để kích hoạt nó."
+   },
+   "text_disabled_threat_filter": {
+      "message": "Bảo vệ web bị vô hiệu hóa. Đi đến cài đặt để kích hoạt nó."
+   },
+   "text_fraud": {
+      "message": "Trang này là một phần của một nỗ lực gian lận."
+   },
+   "text_malware": {
+      "message": "Chúng tôi đã phát hiện các yếu tố có thể gây hại cho thiết bị của bạn."
+   },
+   "text_miner": {
+      "message": "Trang đã cố sử dụng tài nguyên của thiết bị của bạn để khai thác tiền điện tử và đã bị chặn."
+   },
+   "text_phish": {
+      "message": "Trang này là một phần của nỗ lực lừa đảo."
+   },
+   "text_pua": {
+      "message": "Trang đã cố tải xuống PUA (Ứng dụng không mong muốn tiềm tàng) về thiết bị của bạn và đã bị chặn."
+   },
+   "text_untrusted": {
+      "message": "Trang này có thể an toàn, nhưng một số mối đe dọa an ninh đã được báo cáo trong quá khứ."
+   },
+   "text_whitelist": {
+      "message": "Nếu bạn biết trang này không nguy hiểm, bạn có thể {link} thêm trang đó vào danh sách Ngoại lệ của bạn {link}."
+   },
+   "text_whitelist_cont": {
+      "message": "Hãy lưu ý rằng bạn sẽ không được cảnh báo về bất kỳ mối đe dọa nào tồn tại trên trang này."
+   },
+   "text_whitelist_popup": {
+      "message": "Trang này được bỏ qua khi quét vì nó đã được thêm vào danh sách Ngoại lệ."
+   },
+   "text_whitelist_submit": {
+      "message": "Các URL được thêm vào danh sách ngoại lệ sẽ bị bỏ qua khi quét. Bạn sẽ không được cảnh báo về bất kỳ mối đe dọa nào hiện có trên các trang này."
+   },
+   "text_whitelist_toast": {
+      "message": "Trang web đã được thêm vào danh sách Ngoại lệ"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "Không thể quét kết quả tìm kiếm"
+   },
+   "title_disabled_threat_filter": {
+      "message": "Không thể quét trang này"
+   },
+   "title_fraud": {
+      "message": "Phát hiện một sự gian lận"
+   },
+   "title_malware": {
+      "message": "Phát hiện hiểm họa!"
+   },
+   "title_miner": {
+      "message": "Phát hiện nỗ lực khai thác"
+   },
+   "title_phish": {
+      "message": "Phát hiện trang web lừa đảo"
+   },
+   "title_pua": {
+      "message": "Đã phát hiện tải xuống ứng dụng không mong muốn"
+   },
+   "title_safe": {
+      "message": "Trang này  an toàn"
+   },
+   "title_untrusted": {
+      "message": "Phát hiện tên miền không tin cậy"
+   },
+   "title_whitelist_popup": {
+      "message": "Trang này được bỏ qua để quét trong phiên duyệt hiện tại"
+   },
+   "web_protection_text": {
+      "message": "Bảo vệ web bởi"
+   },
+   "web_protection_title": {
+      "message": "Bảo vệ web bằng Bitdefender"
+   }
+}

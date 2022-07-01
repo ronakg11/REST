@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="20px" viewBox="0 0 26 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Buttons / done / dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.000190421995 25.5389071 0.000190421995 25.5389071 20.0001 0 20.0001"></polygon>
+    </defs>
+    <g id="Buttons-/-done-/-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Clip-2"></g>
+        <path d="M24.8644,0.5021 C24.0354,-0.2299 22.7724,-0.1519 22.0414,0.6751 L9.2354,15.1501 L3.3514,9.7571 C2.5374,9.0101 1.2714,9.0651 0.5254,9.8791 C-0.2206,10.6941 -0.1656,11.9591 0.6484,12.7051 L8.0334,19.4741 C8.4034,19.8141 8.8854,20.0001 9.3854,20.0001 C9.4204,20.0001 9.4544,19.9991 9.4894,19.9971 C10.0254,19.9691 10.5274,19.7271 10.8834,19.3251 L25.0374,3.3251 C25.7684,2.4981 25.6914,1.2341 24.8644,0.5021" id="Fill-1" fill="#2BC224" mask="url(#mask-2)"></path>
+    </g>
+</svg>

@@ -1,0 +1,212 @@
+{
+   "alert_ignore": {
+      "message": "Risklerin farkındayım, yine de oraya gitmek istiyorum"
+   },
+   "alert_take_to_safety": {
+      "message": "Beni güvenli konuma geri götür"
+   },
+   "blocked_text_fraud": {
+      "message": "Dolandırıcı sayfalar hukuka uygun olmayan kazanç sağlamak için sizin para göndermeniz için kandırmaya çalışır."
+   },
+   "blocked_text_malware": {
+      "message": "Tehlikeli sayfalar cihazınıza zarar verecek, kişisel verilerinizi toplayacak veya onayınız olmadan çalışabilecek yazılımlar yükleyebilir."
+   },
+   "blocked_text_miner": {
+      "message": "Miner sayfaları, cihazın kaynaklarını şifrelemek için kullanıyor, bu da kullanılabilirliğini ve donanım ömrünü etkiliyor."
+   },
+   "blocked_text_phish": {
+      "message": "Kimlik hırsızlığı sayfaları giriş bilgileri veya kredi kartı bilgileri gibi hassas bilgileri güvenilir kuruluşlarmış gibi davranarak elde etmeye çalışır.Çalınan veri finansal kazanç sağlamak için kullanılabilir."
+   },
+   "blocked_text_pua": {
+      "message": "Sayfa, cihazınıza PUA (Potansiyel Olarak İstenmeyen Uygulama) indirme girişiminde bulundu. Bu tür uygulamalar cihazınızın ve verilerinizin gizliliğini ve güvenliğini etkileyen davranışlar sergiliyor."
+   },
+   "blocked_title_fraud": {
+      "message": "Güvenliğiniz için dolandırıcılık sayfası engellendi"
+   },
+   "blocked_title_malware": {
+      "message": "Güvenliğiniz için tehlikeli sayfa engellendi"
+   },
+   "blocked_title_miner": {
+      "message": "Güvenliğiniz için tehlikeli sayfa engellendi"
+   },
+   "blocked_title_phish": {
+      "message": "Güvenliğiniz için kimlik hırsızı sayfa engellendi"
+   },
+   "blocked_title_pua": {
+      "message": "Korunmanız için bir indirme engellendi"
+   },
+   "checkbox_link_feedback": {
+      "message": "Mevcut web sitesi bağlantısını ekle"
+   },
+   "extName": {
+      "message": "Bitdefender TrafficLight, göz atma deneyiminize güçlü ve müdahaleci olmayan bir güvenlik katmanı ekler."
+   },
+   "extension_name": {
+      "message": "Bitdefender TrafficLight"
+   },
+   "feedback_description_title": {
+      "message": "Açıklama"
+   },
+   "feedback_mail": {
+      "message": "E-mail adresi"
+   },
+   "feedback_message": {
+      "message": "Bir öneri girin veya karşılaştığınız bir sorunu açıklayın."
+   },
+   "feedback_title": {
+      "message": "Geribildirim"
+   },
+   "footer_feedback_note": {
+      "message": "Bir sorunla karşılaşıldı mı?"
+   },
+   "invalid_email_text": {
+      "message": "Lütfen bir e-posta adresi girin"
+   },
+   "invalid_feedback_message_text": {
+      "message": "Lütfen karşılaştığınız sorunun açıklamasını ekleyin"
+   },
+   "link_feedback": {
+      "message": "Geri bildirim gönderin"
+   },
+   "popup_settings": {
+      "message": "Ayarlar"
+   },
+   "popup_text_safe": {
+      "message": "Bu sayfada herhangi bir şüpheli öğe bulamadık."
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "Aşağıdaki web sitelerini el ile ekleyin veya kaldırın:"
+   },
+   "settings_current_website_add_title": {
+      "message": " Mevcut web sitesini listeye ekle"
+   },
+   "settings_exceptions_title": {
+      "message": "İstisnalar"
+   },
+   "settings_search_text": {
+      "message": "Arama sonuçlarını, erişilmeden önce tehlikeli web sayfalarına karşı uyarmak için kontrol eder."
+   },
+   "settings_search_title": {
+      "message": "Arama Danışmanı"
+   },
+   "settings_threat_text": {
+      "message": "Eriştiğiniz her web sayfasını tehdit, kimlik avı ve dolandırıcılık girişimleri için kontrol eder."
+   },
+   "settings_threat_title": {
+      "message": "Web Koruması"
+   },
+   "settings_tooltip_text": {
+      "message": "Web sitesini listeden kaldır"
+   },
+   "started_feedback_text": {
+      "message": "Kullanıcılarımızdan gelen her türlü öneri için gerçekten çok hevesliyiz. Bizimle görüşmek için geri bildirim formunu kullanın."
+   },
+   "started_feedback_title": {
+      "message": "Geri bildirim gönderin"
+   },
+   "started_search_text": {
+      "message": "TrafficLight arama sonuçlarında tehlikeli ve hileli web sitelerini işaretler."
+   },
+   "started_search_title": {
+      "message": "Arama sonuçlarınızda riskli web sayfalarının önceden uyarılmasını sağlar"
+   },
+   "started_threat_text": {
+      "message": "TrafficLight, ziyaret ettiğiniz sayfaları,bunlara her eriştiğinizde çevrimiçi tehditler, kimlik avı ve sahtekarlık girişimleri için inceler ve engeller."
+   },
+   "started_threat_title": {
+      "message": "Çevrimiçi tehditlere, kimlik avına ve dolandırıcılık saldırılarına karşı koruma sağlar"
+   },
+   "started_tracker_text": {
+      "message": "İzleyiciler, web tarama davranışınızı izleyen ve analiz eden web sitesi sayfalarında bulunan kod parçacıklarıdır. TrafficLight hızlı bir şekilde tanımlar ve listeler."
+   },
+   "started_tracker_title": {
+      "message": "Tarama davranışınızla ilgili rapor veren izleyicileri tanımlar"
+   },
+   "started_welcome_text": {
+      "message": "Tarama deneyiminize güçlü ve müdahaleci olmayan bir güvenlik katmanı eklemek için TrafficLight kullanın."
+   },
+   "submit_result_failed_text": {
+      "message": "Gönderme başarısız oldu"
+   },
+   "text_disabled_recommend": {
+      "message": "Etkinleştirmek için Ayarlar'a gidin."
+   },
+   "text_disabled_search_analyzer": {
+      "message": "Arama Danışmanı devre dışı bırakıldı. Etkinleştirmek için ayarlara gidin."
+   },
+   "text_disabled_threat_filter": {
+      "message": "Web Koruması devre dışı bırakıldı. Etkinleştirmek için ayarlara gidin."
+   },
+   "text_fraud": {
+      "message": "Bu sayfa sahtekarlık girişiminin bir parçası."
+   },
+   "text_malware": {
+      "message": "Cihazınıza zarar verebilecek unsurlar tespit ettik."
+   },
+   "text_miner": {
+      "message": "Bu sayfa, cihazınızın kaynaklarını şifrelemek için kullanmaya çalıştı ve engellendi."
+   },
+   "text_phish": {
+      "message": "Bu sayfa, bir kimlik avı girişiminde bulunuyor."
+   },
+   "text_pua": {
+      "message": "Bu sayfa, cihazınıza bir PUA (Potansiyel Olarak İstenmeyen Uygulama) indirmeyi denedi ve engellendi."
+   },
+   "text_untrusted": {
+      "message": "Bu sayfa güvenli olabilir, ancak geçmişte bazı güvenlik tehditleri bildirilmiştir."
+   },
+   "text_whitelist": {
+      "message": "Bu sayfanın tehlikeli olmadığını biliyorsanız, {link} bunu İstisnalar listenize ekleyebilirsin {link}."
+   },
+   "text_whitelist_cont": {
+      "message": "Bu sayfada bulunan herhangi bir tehdit hakkında uyarılmayacağınızı unutmayın."
+   },
+   "text_whitelist_popup": {
+      "message": "İstisnalar listesine eklendiğinden, bu sayfa taramadan atlandı."
+   },
+   "text_whitelist_submit": {
+      "message": "İstisna listesine eklenen URL'ler taramadan atlanacak, bu sayfalarda mevcut olan tehditler konusunda uyarılmayacaksınız."
+   },
+   "text_whitelist_toast": {
+      "message": "Web sayfası İstisnalar listesine eklendi"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "Arama sonuçlarını tarayamıyorum"
+   },
+   "title_disabled_threat_filter": {
+      "message": "Bu sayfa taranamıyor"
+   },
+   "title_fraud": {
+      "message": "Bir dolandırıcılık girişimi algılandı."
+   },
+   "title_malware": {
+      "message": "Tehdit algılandı!"
+   },
+   "title_miner": {
+      "message": "Madencilik girişimi tespit edildi"
+   },
+   "title_phish": {
+      "message": "Kimlik hırsızlığı girişimi tespit edildi"
+   },
+   "title_pua": {
+      "message": "Potansiyel istenmeyen uygulama algılandı"
+   },
+   "title_safe": {
+      "message": "Bu sayfa güvenli"
+   },
+   "title_untrusted": {
+      "message": "Güvenilmeyen alan adı algılandı"
+   },
+   "title_whitelist_popup": {
+      "message": "İstisnalar listesine eklendiğinden, bu sayfa taramadan atlandı"
+   },
+   "web_protection_text": {
+      "message": "Web Koruması"
+   },
+   "web_protection_title": {
+      "message": "Tarafından Web Protection Bitdefender"
+   }
+}

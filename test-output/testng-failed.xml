@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="RestAssuredAutomation.MultipleBookings">
+      <class name="RestAssuredAutomation.OAuth2_PojoDeserialization">
         <methods>
-          <include name="createBooking1"/>
-          <include name="setupRequestSpec"/>
-          <include name="updateBooking"/>
+          <include name="OAuth"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- RestAssuredAutomation.MultipleBookings -->
+      </class> <!-- RestAssuredAutomation.OAuth2_PojoDeserialization -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

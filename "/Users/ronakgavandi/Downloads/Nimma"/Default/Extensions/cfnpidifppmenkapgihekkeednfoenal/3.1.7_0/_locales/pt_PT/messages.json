@@ -1,0 +1,212 @@
+{
+   "alert_ignore": {
+      "message": "Compreendo os riscos, mas desejo continuar"
+   },
+   "alert_take_to_safety": {
+      "message": "Regressar à Segurança"
+   },
+   "blocked_text_fraud": {
+      "message": "Páginas fraudulentas geralmente tentam enganá-lo e fazer com que envie dinheiro com o intuito de obter benefícios ilegais."
+   },
+   "blocked_text_malware": {
+      "message": "Páginas perigosas tentam instalar software que pode prejudicar o dispositivo, reunir informações pessoais ou operar sem o seu consentimento."
+   },
+   "blocked_text_miner": {
+      "message": "As páginas Miner utilizam os recursos dos dispositivos para criptomoeda, afetando a sua utilidade e o ciclo de vida do hardware."
+   },
+   "blocked_text_phish": {
+      "message": "Páginas com phishing tentam obter informações sensíveis, como credenciais de login ou detalhes do cartão de crédito, ao se disfarçarem como entidades fiáveis. Os dados roubados podem ser utilizados para ganhos financeiros."
+   },
+   "blocked_text_pua": {
+      "message": "A página tentou transferir uma aplicação potencialmente indesejada (Potentially Unwanted App, PUA) para o seu dispositivo. Este tipo de aplicações exibe comportamentos que afetam a privacidade e segurança do seu dispositivo e dados."
+   },
+   "blocked_title_fraud": {
+      "message": "Página fraudulenta bloqueada para sua proteção"
+   },
+   "blocked_title_malware": {
+      "message": "Página perigosa bloqueada para sua proteção"
+   },
+   "blocked_title_miner": {
+      "message": "Página Miner bloqueada para sua proteção"
+   },
+   "blocked_title_phish": {
+      "message": "Página perigosa bloqueada para sua proteção"
+   },
+   "blocked_title_pua": {
+      "message": "Foi bloqueada uma transferência para sua proteção"
+   },
+   "checkbox_link_feedback": {
+      "message": "Incluir o link atual do website"
+   },
+   "extName": {
+      "message": "O TrafficLight da Bitdefender adiciona uma camada de segurança forte e não intrusiva à sua navegação."
+   },
+   "extension_name": {
+      "message": "TrafficLight da Bitdefender"
+   },
+   "feedback_description_title": {
+      "message": "Descrição"
+   },
+   "feedback_mail": {
+      "message": "Endereço electrónico"
+   },
+   "feedback_message": {
+      "message": "Insira uma sugestão ou descreva um problema que tenha encontrado."
+   },
+   "feedback_title": {
+      "message": "Avaliação"
+   },
+   "footer_feedback_note": {
+      "message": "Encontrou um problema?"
+   },
+   "invalid_email_text": {
+      "message": "Por favor, introduza um endereço electrónico"
+   },
+   "invalid_feedback_message_text": {
+      "message": "Descreva o problema que encontrou"
+   },
+   "link_feedback": {
+      "message": "Enviar feedback"
+   },
+   "popup_settings": {
+      "message": "Definições"
+   },
+   "popup_text_safe": {
+      "message": "Não encontrámos nenhum elemento suspeito nesta página."
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "Adicionar ou remover manualmente os sites abaixo:"
+   },
+   "settings_current_website_add_title": {
+      "message": " Adicionar o site atual à lista"
+   },
+   "settings_exceptions_title": {
+      "message": "Exceções"
+   },
+   "settings_search_text": {
+      "message": "Verifica os seus resultados de pesquisa para o alertar sobre sites perigosos antes que os aceda."
+   },
+   "settings_search_title": {
+      "message": "Consultor de Procura"
+   },
+   "settings_threat_text": {
+      "message": "Verifica todas as páginas que aceder quanto a ameaças, phishing e tentativas de fraude."
+   },
+   "settings_threat_title": {
+      "message": "Proteção da Internet"
+   },
+   "settings_tooltip_text": {
+      "message": "Remover o site da lista"
+   },
+   "started_feedback_text": {
+      "message": "Estamos ansiosos para receber sugestões dos nossos utilizadores. Utilize o formulário para entrar em contacto connosco."
+   },
+   "started_feedback_title": {
+      "message": "Enviar comentários"
+   },
+   "started_search_text": {
+      "message": "O TrafficLight deteta páginas Web perigosas e fraudulentas nos resultados da procura."
+   },
+   "started_search_title": {
+      "message": "Fornece alertas antecipados de páginas Web de risco nos seus resultados de pesquisa."
+   },
+   "started_threat_text": {
+      "message": "O TrafficLight examina as páginas que visita e bloqueia ameaças online, phishing e tentativas de fraude sempre que acede aos mesmos."
+   },
+   "started_threat_title": {
+      "message": "Protege contra ameaças, phishing e ataques de fraude online"
+   },
+   "started_tracker_text": {
+      "message": "Os controladores são fragmentos de código em páginas Web que acompanham e analisam o seu comportamento de navegação. O TrafficLight rapidamente os identifica e os enumera."
+   },
+   "started_tracker_title": {
+      "message": "Identifies trackers that report on your browsing behavior"
+   },
+   "started_welcome_text": {
+      "message": "Utilize o TrafficLight para adicionar uma camada de segurança forte e não intrusiva à sua navegação."
+   },
+   "submit_result_failed_text": {
+      "message": "O envio falhou"
+   },
+   "text_disabled_recommend": {
+      "message": "Vá a Definições para ativá-lo."
+   },
+   "text_disabled_search_analyzer": {
+      "message": "O Consultor de Pesquisas está desativado. Vá a configurações para o ativar."
+   },
+   "text_disabled_threat_filter": {
+      "message": "A Proteção na Web está desativada. Vá até às configurações para a ativar."
+   },
+   "text_fraud": {
+      "message": "Esta página é parte de uma tentativa de fraude."
+   },
+   "text_malware": {
+      "message": "Detetamos elementos que podem danificar o seu dispositivo."
+   },
+   "text_miner": {
+      "message": "A página tentou utilizar os seus recursos para minar criptomoedas e foi bloqueada."
+   },
+   "text_phish": {
+      "message": "Esta página é parte de uma tentativa de phishing."
+   },
+   "text_pua": {
+      "message": "A página tentou transferir uma PUA (Aplicação Potencialmente Indesejada) para o seu dispositivo e foi bloqueada."
+   },
+   "text_untrusted": {
+      "message": "Esta página pode ser segura, mas algumas ameaças de segurança foram comunicadas no passado."
+   },
+   "text_whitelist": {
+      "message": "Se souber que esta página não é perigosa, pode \u003C{link} adicioná-la à sua lista de exceções{link}."
+   },
+   "text_whitelist_cont": {
+      "message": "Tenha cuidado pois não será avisado sobre quaisquer ameaças existentes nesta página."
+   },
+   "text_whitelist_popup": {
+      "message": "Esta página foi excluída da análise pois foi adicionada à lista de Exceções."
+   },
+   "text_whitelist_submit": {
+      "message": "Os URLs adicionados à lista de exceções serão excluídos da verificação. Não será avisado sobre quaisquer ameaças existentes nestas páginas."
+   },
+   "text_whitelist_toast": {
+      "message": "A página da web foi adicionada à Lista de Exceções"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "Não é possível analisar os resultados da pesquisa"
+   },
+   "title_disabled_threat_filter": {
+      "message": "Não é possível verificar esta página"
+   },
+   "title_fraud": {
+      "message": "Tentativa de fraude detetada"
+   },
+   "title_malware": {
+      "message": "Ameaça detetada!"
+   },
+   "title_miner": {
+      "message": "Tentativa de minar de criptomoedas detetada"
+   },
+   "title_phish": {
+      "message": "Tentativa de phishing detetada"
+   },
+   "title_pua": {
+      "message": "Foi detetada a transferência de uma aplicação potencialmente indesejada"
+   },
+   "title_safe": {
+      "message": "Esta página é segura"
+   },
+   "title_untrusted": {
+      "message": "Domínio não fiável detetado"
+   },
+   "title_whitelist_popup": {
+      "message": "Esta página foi excluída da análise na atual sessão do navegação"
+   },
+   "web_protection_text": {
+      "message": "Proteção na web por"
+   },
+   "web_protection_title": {
+      "message": "Proteção na web por Bitdefender"
+   }
+}

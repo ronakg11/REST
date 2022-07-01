@@ -1,0 +1,212 @@
+{
+   "alert_ignore": {
+      "message": "Ik begrijp het risico, laat me er toch heengaan"
+   },
+   "alert_take_to_safety": {
+      "message": "Herstel de bescherming"
+   },
+   "blocked_text_fraud": {
+      "message": "Frauduleuze pagina's proberen u meestal uit illegaal winstbejag geld te doen sturen."
+   },
+   "blocked_text_malware": {
+      "message": "Gevaarlijke pagina's proberen software te installeren die het apparaat kan beschadigen, persoonlijke gegevens kan verzamelen of zonder uw toestemming handelingen kan stellen."
+   },
+   "blocked_text_miner": {
+      "message": "Miner-webpagina's gebruiken de middelen van het apparaat om te mijnen naar cryptovaluta, wat de bruikbaarheid en de levensduur van de hardware beïnvloedt."
+   },
+   "blocked_text_phish": {
+      "message": "Phishing-pagina's proberen gevoelige informatie zoals inloggegevens of kredietkaartgegevens te verzamelen, door zich voor te doen als betrouwbare entiteiten. De gestolen gegevens kunnen dan voor financieel winstbejag worden gebruikt."
+   },
+   "blocked_text_pua": {
+      "message": "Een pagina heeft geprobeerd om een PUA (Potentially Unwanted App) te downloaden naar uw apparaat. Dit soort toepassingen vertoont gedrag dat de privacy en beveiliging van uw apparaat en gegevens aantast."
+   },
+   "blocked_title_fraud": {
+      "message": "Frauduleuze pagina voor uw bescherming geblokkeerd"
+   },
+   "blocked_title_malware": {
+      "message": "Gevaarlijke pagina voor uw bescherming geblokkeerd"
+   },
+   "blocked_title_miner": {
+      "message": "Miner-pagina voor uw bescherming geblokkeerd"
+   },
+   "blocked_title_phish": {
+      "message": "Phishing-pagina voor uw bescherming geblokkeerd"
+   },
+   "blocked_title_pua": {
+      "message": "Er werd ter bescherming een download geblokkeerd"
+   },
+   "checkbox_link_feedback": {
+      "message": "Voeg de huidige websitelink toe"
+   },
+   "extName": {
+      "message": "Bitdefender TrafficLight voegt een sterke en niet-belastende beveiligingslaag toe aan uw surfervaring."
+   },
+   "extension_name": {
+      "message": "Bitdefender TrafficLight"
+   },
+   "feedback_description_title": {
+      "message": "Beschrijving"
+   },
+   "feedback_mail": {
+      "message": "E-mailadres"
+   },
+   "feedback_message": {
+      "message": "Geef een suggestie op, of beschrijf een probleem dat u ondervonden hebt."
+   },
+   "feedback_title": {
+      "message": "Opmerkingen"
+   },
+   "footer_feedback_note": {
+      "message": "Een probleem ondervonden?"
+   },
+   "invalid_email_text": {
+      "message": "Voer een e-mailadres in"
+   },
+   "invalid_feedback_message_text": {
+      "message": "Geef a.u.b. een beschrijving van het probleem dat zich heeft voorgedaan."
+   },
+   "link_feedback": {
+      "message": "Feedback verzenden"
+   },
+   "popup_settings": {
+      "message": "Instellingen"
+   },
+   "popup_text_safe": {
+      "message": "We hebben geen verdachte elementen gevonden op deze pagina."
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "Voeg websites hieronder handmatig toe of verwijder ze:"
+   },
+   "settings_current_website_add_title": {
+      "message": " Huidige website toevoegen aan de lijst"
+   },
+   "settings_exceptions_title": {
+      "message": "Uitzonderingen"
+   },
+   "settings_search_text": {
+      "message": "Controleert de zoekresultaten om u te waarschuwen voor gevaarlijke webpagina's, vooraleer u ze opent."
+   },
+   "settings_search_title": {
+      "message": "Search Advisor"
+   },
+   "settings_threat_text": {
+      "message": "Scant elke webpagina die u bezoekt op bedreigingen, phishing en pogingen tot fraude."
+   },
+   "settings_threat_title": {
+      "message": "Web Protection"
+   },
+   "settings_tooltip_text": {
+      "message": "Verwijder de website uit de lijst"
+   },
+   "started_feedback_text": {
+      "message": "We zijn echt benieuwd naar alle mogelijke suggesties van onze gebruikers. Gebruik het feedbackformulier om contact met ons op te nemen."
+   },
+   "started_feedback_title": {
+      "message": "Feedback verzenden"
+   },
+   "started_search_text": {
+      "message": "TrafficLight duidt gevaarlijke en frauduleuze webpagina's aan in de zoekresultaten."
+   },
+   "started_search_title": {
+      "message": "Geeft vooraf waarschuwingen van risicovolle webpagina's binnen uw zoekresultaten"
+   },
+   "started_threat_text": {
+      "message": "TrafficLight onderzoekt en blokkeert de pagina's die u bezoekt op online bedreigingen, phishing en fraudepogingen, telkens u de pagina's bezoekt."
+   },
+   "started_threat_title": {
+      "message": "Beschermt tegen online bedreigingen, phishing- en fraudeaanvallen"
+   },
+   "started_tracker_text": {
+      "message": "Trackers zijn stukjes code in webpagina's die uw browsinggedrag volgen en analyseren. TrafficLight spoort ze snel op en maakt er een lijst van."
+   },
+   "started_tracker_title": {
+      "message": "Herkent tracking-code dieinformatie over uw surfgedrag bijhoudt"
+   },
+   "started_welcome_text": {
+      "message": "Gebruik TrafficLight om een sterke en niet-belastende beveiligingslaag toe te voegen aan uw surfervaring."
+   },
+   "submit_result_failed_text": {
+      "message": "Feedback niet verzonden"
+   },
+   "text_disabled_recommend": {
+      "message": "Ga naar Instellingen om in te schakelen."
+   },
+   "text_disabled_search_analyzer": {
+      "message": "Search Advisor is uitgeschakeld. Ga naar instellingen om het in te schakelen."
+   },
+   "text_disabled_threat_filter": {
+      "message": "Web Protection is uitgeschakeld. Ga naar instellingen om het in te schakelen."
+   },
+   "text_fraud": {
+      "message": "Deze pagina maakt deel uit van een fraudepoging."
+   },
+   "text_malware": {
+      "message": "We hebben elementen gedetecteerd die uw toestel kunnen schaden."
+   },
+   "text_miner": {
+      "message": "De pagina heeft gepoogd om uw apparaat te gebruiken om te mijnen naar cryptovaluta en werd geblokkeerd."
+   },
+   "text_phish": {
+      "message": "Deze pagina maakt deel uit van een phishingpoging."
+   },
+   "text_pua": {
+      "message": "De pagina heeft geprobeerd om een PUA (mogelijk ongewenste toepassing) te downloaden op uw apparaat en werd geblokkeerd."
+   },
+   "text_untrusted": {
+      "message": "Deze pagina is mogelijk veilig, maar in het verleden werden enkele beveiligingsproblemen gemeld."
+   },
+   "text_whitelist": {
+      "message": "Indien u weet dat de pagina niet gevaarlijk is, kunt u deze {link}toevoegen aan de Uitzonderingenlijst{link}."
+   },
+   "text_whitelist_cont": {
+      "message": "Wees voorzichtig: u wordt niet gewaarschuwd over bestaande bedreigingen op deze pagina."
+   },
+   "text_whitelist_popup": {
+      "message": "Deze pagina wordt niet gescand omdat ze op de lijst met uitzonderingen staat."
+   },
+   "text_whitelist_submit": {
+      "message": "De URL's op de uitzonderingslijst worden niet gescand. U wordt niet gewaarschuwd over bedreigingen op deze pagina's."
+   },
+   "text_whitelist_toast": {
+      "message": "De webpagina werd toegevoegd aan de Uitzonderingenlijst"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "Kan de zoekresultaten niet scannen"
+   },
+   "title_disabled_threat_filter": {
+      "message": "Kan deze pagina niet scannen"
+   },
+   "title_fraud": {
+      "message": "Poging tot fraude gedetecteerd"
+   },
+   "title_malware": {
+      "message": "Bedreiging gedetecteerd!"
+   },
+   "title_miner": {
+      "message": "Poging tot mining gedetecteerd"
+   },
+   "title_phish": {
+      "message": "Phishing-poging gedetecteerd"
+   },
+   "title_pua": {
+      "message": "Download van mogelijk ongewenste toepassing gedetecteerd"
+   },
+   "title_safe": {
+      "message": "Deze pagina is veilig"
+   },
+   "title_untrusted": {
+      "message": "Onbetrouwbaar domein gedetecteerd"
+   },
+   "title_whitelist_popup": {
+      "message": "Deze pagina wordt in de huidige browsersessie niet gescand"
+   },
+   "web_protection_text": {
+      "message": "Webbescherming van"
+   },
+   "web_protection_title": {
+      "message": "Webbescherming door Bitdefender"
+   }
+}

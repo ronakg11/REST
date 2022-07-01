@@ -1,0 +1,212 @@
+{
+   "alert_ignore": {
+      "message": "Înțeleg riscurile și doresc să accesez această pagină"
+   },
+   "alert_take_to_safety": {
+      "message": "Înapoi către o pagină sigură"
+   },
+   "blocked_text_fraud": {
+      "message": "Paginile frauduloase încearcă, de obicei, să te păcălească pentru a trimite bani cu intenția de a obține venituri ilegale."
+   },
+   "blocked_text_malware": {
+      "message": "Paginile periculoase încearcă să instaleze software-uri care pot afecta negativ dispozitivul, pot colecta date cu caracter personal sau pot funcționa fără acordul tău."
+   },
+   "blocked_text_miner": {
+      "message": "Paginile de tip miner folosesc resursele dispozitivului pentru a mina criptomonedă, afectând utilizarea și durata de viață a hardware-ului."
+   },
+   "blocked_text_phish": {
+      "message": "Paginile de phishing încearcă să colecteze informații cu caracter sensibil, cum ar fi datele de autentificare sau datele cardului de credit, deghizându-se ca entități de încredere. Datele astfel furate pot fi apoi utilizate pentru obținerea unor câștiguri financiare."
+   },
+   "blocked_text_pua": {
+      "message": "Această pagină a încercat să descarce o aplicație potențial nedorită (PUA) pe dispozitivul tău. Acest tip de aplicații prezintă comportamente care afectează confidențialitatea și securitatea dispozitivului și a datelor tale."
+   },
+   "blocked_title_fraud": {
+      "message": "Pagină frauduloasă blocată pentru a te proteja"
+   },
+   "blocked_title_malware": {
+      "message": "Pagină periculoasă blocată pentru a te proteja"
+   },
+   "blocked_title_miner": {
+      "message": "Pagină de tip miner blocată pentru a te proteja"
+   },
+   "blocked_title_phish": {
+      "message": "Pagină de phishing blocată pentru a te proteja"
+   },
+   "blocked_title_pua": {
+      "message": "Pentru a te proteja, a fost blocată descărcarea unui fișier"
+   },
+   "checkbox_link_feedback": {
+      "message": "Includeți link-ul de referință al site-ului web curent"
+   },
+   "extName": {
+      "message": "Bitdefender TrafficLight adaugă un nivel de securitate puternic și non-intruziv atunci când navighezi pe internet."
+   },
+   "extension_name": {
+      "message": "Bitdefender TrafficLight"
+   },
+   "feedback_description_title": {
+      "message": "Descriere"
+   },
+   "feedback_mail": {
+      "message": "Adresa de email"
+   },
+   "feedback_message": {
+      "message": "Introduceți o sugestie sau descrieți o problemă pe care ați întâmpinat-o."
+   },
+   "feedback_title": {
+      "message": "Feedback"
+   },
+   "footer_feedback_note": {
+      "message": "Ai întâmpinat o problemă?"
+   },
+   "invalid_email_text": {
+      "message": "Te rugăm să introduci o adresă de e-mail"
+   },
+   "invalid_feedback_message_text": {
+      "message": "Vă rugăm să introduceți o descriere a problemei întâmpinate."
+   },
+   "link_feedback": {
+      "message": "Trimitere opinie"
+   },
+   "popup_settings": {
+      "message": "Setări"
+   },
+   "popup_text_safe": {
+      "message": "Nu au fost depistate elemente suspecte în această pagină."
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "Adaugă sau elimină manual site-urile web în secțiunea de mai jos:"
+   },
+   "settings_current_website_add_title": {
+      "message": " Adaugă în listă site-ul web curent"
+   },
+   "settings_exceptions_title": {
+      "message": "Excepții"
+   },
+   "settings_search_text": {
+      "message": "Verificați rezultatele căutării pentru a vedea avertizările cu privire la paginile web înainte de a le accesa."
+   },
+   "settings_search_title": {
+      "message": "Asistență la căutare"
+   },
+   "settings_threat_text": {
+      "message": "Verificați toate paginile web pe care le accesați pentru depistarea amenințărilor, tentativelor de phising și încercărilor de fraudă."
+   },
+   "settings_threat_title": {
+      "message": "Protecție web"
+   },
+   "settings_tooltip_text": {
+      "message": "Eliminați site-ul web din listă"
+   },
+   "started_feedback_text": {
+      "message": "Suntem nerăbdători să primim orice sugestie de la utilizatorii noștri. Folosește formularul de feedback pentru a ne contacta."
+   },
+   "started_feedback_title": {
+      "message": "Trimitere opinie"
+   },
+   "started_search_text": {
+      "message": "TrafficLight marchează în rezultatele căutării paginile web periculoase sau frauduloase."
+   },
+   "started_search_title": {
+      "message": "Avertizează împotriva site-urilor web cu risc de infectare din rezultatele căutărilor tale"
+   },
+   "started_threat_text": {
+      "message": "TrafficLight examinează de fiecare dată paginile pe care le accesezi și le blochează dacă este cazul pentru a te proteja de amenințările online, tentativele de phishing și de fraudă."
+   },
+   "started_threat_title": {
+      "message": "Protejează împotriva amenințărilor online, a tentativelor de phishing și de fraudă"
+   },
+   "started_tracker_text": {
+      "message": "Tracker-ele sunt fragmente de cod incluse pe paginile web, care urmăresc și analizează comportamentul tău de navigare. TrafficLight le identifică rapid și le afișează."
+   },
+   "started_tracker_title": {
+      "message": "Identifică instrumentele de urmărire care raportează comportamentul dumneavoastră de navigare pe internet"
+   },
+   "started_welcome_text": {
+      "message": "Folosește TrafficLight pentru a beneficia de un nivel de securitate puternic și non-intruziv atunci când navighezi pe internet."
+   },
+   "submit_result_failed_text": {
+      "message": "Trimiterea nu a reușit"
+   },
+   "text_disabled_recommend": {
+      "message": "Accesează pagina de Setări pentru a-l activa."
+   },
+   "text_disabled_search_analyzer": {
+      "message": "Extensia Search Advisor este deazactivată. Accesați setările pentru activare."
+   },
+   "text_disabled_threat_filter": {
+      "message": "Protecția web este dezactivată. Accesați setările pentru activare."
+   },
+   "text_fraud": {
+      "message": "Această pagină face parte dintr-o tentativă de fraudă."
+   },
+   "text_malware": {
+      "message": "Au fost detectate elemente care v-ar putea pune în pericol dispozitivul."
+   },
+   "text_miner": {
+      "message": "O pagină a încercat să folosească resursele dispozitivului tău pentru a mina criptomonedă și a fost blocată."
+   },
+   "text_phish": {
+      "message": "Această pagină face parte dintr-o tentativă de phishing."
+   },
+   "text_pua": {
+      "message": "Această pagină a încercat să descarce pe dispozitivul tău o aplicație potențial nedorită (PUA, Potentially Unwanted App) și a fost blocată."
+   },
+   "text_untrusted": {
+      "message": "Această pagină ar putea fi sigură, însă în trecut au fost raportate unele amenințări de securitate."
+   },
+   "text_whitelist": {
+      "message": "Dacă ești sigur că această adresă URL nu este periculoasă, o poți {link}adăuga în lista de excepții{link}."
+   },
+   "text_whitelist_cont": {
+      "message": "Însă, atenție! Nu vei mai fi avertizat despre nicio amenințare existentă din pagina respectivă."
+   },
+   "text_whitelist_popup": {
+      "message": "Această pagină nu va fi scanată pentru că a fost adăugată pe lista de excepții."
+   },
+   "text_whitelist_submit": {
+      "message": "Adresele URL adăugate pe lista de excepții nu vor fi scanate. Nu veți fi avertizat cu privire la amenințările din aceste pagini."
+   },
+   "text_whitelist_toast": {
+      "message": "Pagina web a fost adăugată la lista de Excepții"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "Rezultatele căutării nu pot fi scanate"
+   },
+   "title_disabled_threat_filter": {
+      "message": "Această pagină nu poate fi scanată"
+   },
+   "title_fraud": {
+      "message": "A fost detectată o tentativă de fraudă"
+   },
+   "title_malware": {
+      "message": "S-a detectat o amenințare!"
+   },
+   "title_miner": {
+      "message": "A fost detectată o tentativă de minare"
+   },
+   "title_phish": {
+      "message": "S-a detectat o tentativă de phishing"
+   },
+   "title_pua": {
+      "message": "A fost detectată descărcarea unei aplicații potențial nedorite"
+   },
+   "title_safe": {
+      "message": "Această pagină este sigură."
+   },
+   "title_untrusted": {
+      "message": "A fost detectat un domeniu nesigur"
+   },
+   "title_whitelist_popup": {
+      "message": "Această pagină nu va fi scanată în timpul sesiunii curente de navigare"
+   },
+   "web_protection_text": {
+      "message": "Protecție web cu"
+   },
+   "web_protection_title": {
+      "message": "Protecție web cu Bitdefender"
+   }
+}

@@ -1,0 +1,212 @@
+{
+   "alert_ignore": {
+      "message": "Jag förstår riskerna, ta mig dit ändå"
+   },
+   "alert_take_to_safety": {
+      "message": "Ta mig tillbaka till säkerheten"
+   },
+   "blocked_text_fraud": {
+      "message": "Bedrägerisidor försöker ofta lura dig att skicka pengar i ett olagligt syfte."
+   },
+   "blocked_text_malware": {
+      "message": "Farliga sidor försöker installera programvara som kan skada enheten, samla in personlig information eller köras utan ditt samtycke."
+   },
+   "blocked_text_miner": {
+      "message": "Minersidor använder enhetens resurser för att utvinna kryptovaluta och påverkar dess användbarhet och hårdvarans livslängd."
+   },
+   "blocked_text_phish": {
+      "message": "Nätfiskesidor försöker skaffa känslig information som inloggningsuppgifter eller kreditkortsinformation genom att utge sig för att vara betrodda företag. Den stulna informationen kan sedan användas för ekonomisk vinning."
+   },
+   "blocked_text_pua": {
+      "message": "Sidan försökte ladda ned en PUA (potentiellt oönskad app) till din enhet. Den här typen av appar uppvisar beteenden som påverkar sekretess och säkerhet för enhet och data."
+   },
+   "blocked_title_fraud": {
+      "message": "Bedrägerisida blockerad för att skydda dig"
+   },
+   "blocked_title_malware": {
+      "message": "Farlig sida blockerad för att skydda dig"
+   },
+   "blocked_title_miner": {
+      "message": "Miner sida blockerad för att skydda dig"
+   },
+   "blocked_title_phish": {
+      "message": "Nätfiskesida blockerad för att skydda dig"
+   },
+   "blocked_title_pua": {
+      "message": "En nedladdning blockerades för att skydda dig"
+   },
+   "checkbox_link_feedback": {
+      "message": "Inkludera aktuell webbplatslänk"
+   },
+   "extName": {
+      "message": "Bitdefender TrafficLight lägger till ett starkt och ej störande säkerhetslager till din surfupplevelse."
+   },
+   "extension_name": {
+      "message": "Bitdefender TrafficLight"
+   },
+   "feedback_description_title": {
+      "message": "Beskrivning"
+   },
+   "feedback_mail": {
+      "message": "E-postadress"
+   },
+   "feedback_message": {
+      "message": "Ange ett förslag eller beskriv ett problem du har stött på."
+   },
+   "feedback_title": {
+      "message": "Synpunkter"
+   },
+   "footer_feedback_note": {
+      "message": "Stött på ett problem?"
+   },
+   "invalid_email_text": {
+      "message": "Ange en e-postadress"
+   },
+   "invalid_feedback_message_text": {
+      "message": "Lägg till en beskrivning av det problem du stötte på."
+   },
+   "link_feedback": {
+      "message": "Skicka feedback"
+   },
+   "popup_settings": {
+      "message": "Inställningar"
+   },
+   "popup_text_safe": {
+      "message": "Vi hittade inga misstänkta element på den här sidan."
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "Lätt till eller ta bort webbplatser manuellt nedan:"
+   },
+   "settings_current_website_add_title": {
+      "message": " Lägg till aktuell webbplats till listan"
+   },
+   "settings_exceptions_title": {
+      "message": "Undantag"
+   },
+   "settings_search_text": {
+      "message": "Kontrollerar sökresultaten för att varna mot farliga webbsidor innan du öppnar dem."
+   },
+   "settings_search_title": {
+      "message": "Search Advisor"
+   },
+   "settings_threat_text": {
+      "message": "Kontrollerar varje webbsida du öppnar för hot, nätfiske- och bedrägeriförsök."
+   },
+   "settings_threat_title": {
+      "message": "Webbskydd"
+   },
+   "settings_tooltip_text": {
+      "message": "Ta bort webbplats från listan"
+   },
+   "started_feedback_text": {
+      "message": "Vi vill gärna ha förslag från våra användare. Använd feedbackformuläret för att komma i kontakt med oss."
+   },
+   "started_feedback_title": {
+      "message": "Skicka feedback"
+   },
+   "started_search_text": {
+      "message": "TrafficLight flaggar farliga och bedrägliga webbsidor i sökresultat."
+   },
+   "started_search_title": {
+      "message": "Tillhandahåller varning i förväg för riskabla webbsidor inom dina sökresultat"
+   },
+   "started_threat_text": {
+      "message": "TrafficLight undersöker och blockerar de sidor du besöker för onlinehot, nätfiske- och bedrägeriförsök varje gång du öppnar dem."
+   },
+   "started_threat_title": {
+      "message": "Skyddar mot onlinehot, nätfiske och bedrägeriattacker"
+   },
+   "started_tracker_text": {
+      "message": "Trackers är koddelar som ingår på webbsidor som spårar och analyserar ditt surfbeteende. TrafficLight identifierar och listar dem snabbt."
+   },
+   "started_tracker_title": {
+      "message": "Identifierar trackers som rapporterar om ditt surfbeteende"
+   },
+   "started_welcome_text": {
+      "message": "Använd TrafficLight för att lägga till ett starkt och ej störande säkerhetslager till din surfupplevelse."
+   },
+   "submit_result_failed_text": {
+      "message": "Det gick inte att skicka"
+   },
+   "text_disabled_recommend": {
+      "message": "Gå till Inställningar för att aktivera det."
+   },
+   "text_disabled_search_analyzer": {
+      "message": "Search Advisor är inaktiverat. Gå till inställningarna för att aktivera det."
+   },
+   "text_disabled_threat_filter": {
+      "message": "Webbskydd är inaktiverat. Gå till inställningarna för att aktivera det."
+   },
+   "text_fraud": {
+      "message": "Den här sidan är en del av ett bedrägeriförsök."
+   },
+   "text_malware": {
+      "message": "Vi upptäckte element som kan skada din enhet."
+   },
+   "text_miner": {
+      "message": "Sidan försökte använda din enhets resurser för att utvinna kryptovaluta och blockerades."
+   },
+   "text_phish": {
+      "message": "Den här sidan är en del av ett nätfiskeförsök."
+   },
+   "text_pua": {
+      "message": "Sidan försökte ladda ned en PUA (potentiellt oönskad app) till din enhet och blockerades."
+   },
+   "text_untrusted": {
+      "message": "Den här sidan kan vara säker, men vissa säkerhetshot har rapporterats tidigare."
+   },
+   "text_whitelist": {
+      "message": "Om du vet att den här webbadressen inte är farlig kan du {link}lägga till den i undantagslistan{link}."
+   },
+   "text_whitelist_cont": {
+      "message": "Var försiktig, du får ingen varning om eventuella hot som finns på den här sidan."
+   },
+   "text_whitelist_popup": {
+      "message": "Den här sidan hoppas över vid skanning eftersom den är tillagd i undantagslistan.."
+   },
+   "text_whitelist_submit": {
+      "message": "De webbadresser som lagts till i undantagslistan hoppas över vid skanning. Du varnas inte om eventuella hot som finns på dessa sidor."
+   },
+   "text_whitelist_toast": {
+      "message": "Webbsidan är tillagd i undantagslistan"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "Kan inte skanna sökresultaten"
+   },
+   "title_disabled_threat_filter": {
+      "message": "Kan inte skanna den här sidan"
+   },
+   "title_fraud": {
+      "message": "Bedrägeriförsök upptäcktes"
+   },
+   "title_malware": {
+      "message": "Hot upptäckt!"
+   },
+   "title_miner": {
+      "message": "Miningförsök upptäcktes"
+   },
+   "title_phish": {
+      "message": "Nätfiskeförsök upptäcktes"
+   },
+   "title_pua": {
+      "message": "Potentiellt oönskad apphämtning hittades"
+   },
+   "title_safe": {
+      "message": "Den här sidan är säker"
+   },
+   "title_untrusted": {
+      "message": "Obetrodd domän upptäckt"
+   },
+   "title_whitelist_popup": {
+      "message": "Den här sidan hoppas över vid skanning i den aktuella webbläsarsessionen"
+   },
+   "web_protection_text": {
+      "message": "Webbskydd från"
+   },
+   "web_protection_title": {
+      "message": "Webbskydd från Bitdefender"
+   }
+}

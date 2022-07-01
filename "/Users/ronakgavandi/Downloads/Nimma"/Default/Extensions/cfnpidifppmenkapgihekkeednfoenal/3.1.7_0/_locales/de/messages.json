@@ -1,0 +1,212 @@
+{
+   "alert_ignore": {
+      "message": "Ich bin mir der Risiken bewusst und möchte trotzdem fortfahren"
+   },
+   "alert_take_to_safety": {
+      "message": "Ich gehe lieber auf Nummer sicher"
+   },
+   "blocked_text_fraud": {
+      "message": "Betrugsseiten versuchen meist, Sie zum Zwecke der illegalen Bereicherung zur Übermittlung von Geld zu bewegen."
+   },
+   "blocked_text_malware": {
+      "message": "Gefährliche Seiten versuchen, Software zu installieren, die dem Gerät schaden, personenbezogene Daten sammeln oder ohne Ihre Zustimmung aktiv werden kann."
+   },
+   "blocked_text_miner": {
+      "message": "Miner-Seiten bedienen sich der Rechenleistung des Geräts zur Schürfung von Kryptowährungen, was die Leistungskraft und Lebensdauer der Hardware beeinträchtigt."
+   },
+   "blocked_text_phish": {
+      "message": "Phishing-Seiten tarnen sich als vertrauenswürdige Seiten, um auf diesem Wege an sensible Informationen wie Anmelde- oder Kreditkartendaten zu gelangen. Die gestohlenen Daten werden dann zur finanziellen Bereicherung missbraucht."
+   },
+   "blocked_text_pua": {
+      "message": "Die Seite versuchte eine PUA (potenziell unerwünschte App) auf Ihr Gerät herunterzuladen. Solche Apps zeigen Verhaltensweisen, die ein Risiko für die Sicherheit Ihres Geräts und Ihrer Daten darstellen."
+   },
+   "blocked_title_fraud": {
+      "message": "Eine Betrugsseite wurde zu Ihrem Schutz blockiert"
+   },
+   "blocked_title_malware": {
+      "message": "Eine gefährliche Seite wurde zu Ihrem Schutz blockiert"
+   },
+   "blocked_title_miner": {
+      "message": "Eine Miner-Seite wurde zu Ihrem Schutz blockiert"
+   },
+   "blocked_title_phish": {
+      "message": "Eine Phishing-Seite wurde zu Ihrem Schutz blockiert"
+   },
+   "blocked_title_pua": {
+      "message": "Ein Download wurde zu Ihrem Schutz blockiert."
+   },
+   "checkbox_link_feedback": {
+      "message": "Aktuellen Website-Link mitschicken"
+   },
+   "extName": {
+      "message": "Mit BitdefenderTrafficLight fügen Sie Ihrem Surf-Vergnügen eine zuverlässige und unaufdringliche Sicherheitsebene hinzu."
+   },
+   "extension_name": {
+      "message": "Bitdefender TrafficLight"
+   },
+   "feedback_description_title": {
+      "message": "Beschreibung"
+   },
+   "feedback_mail": {
+      "message": "E-Mail-Adresse"
+   },
+   "feedback_message": {
+      "message": "Geben Sie einen Vorschlag ein oder beschreiben Sie das Problem, auf das Sie gestoßen sind."
+   },
+   "feedback_title": {
+      "message": "Feedback"
+   },
+   "footer_feedback_note": {
+      "message": "Ist ein Problem aufgetreten?"
+   },
+   "invalid_email_text": {
+      "message": "Bitte geben Sie eine Email-Adresse ein"
+   },
+   "invalid_feedback_message_text": {
+      "message": "Bitte beschreiben Sie im Textfeld das aufgetretene Problem"
+   },
+   "link_feedback": {
+      "message": "Ihre Meinung"
+   },
+   "popup_settings": {
+      "message": "Einstellungen"
+   },
+   "popup_text_safe": {
+      "message": "Wir haben auf dieser Seite keine verdächtigen Elemente gefunden."
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "Im Folgenden können Sie Website manuell hinzufügen oder entfernen:"
+   },
+   "settings_current_website_add_title": {
+      "message": " Aktuelle Website zur Liste hinzufügen"
+   },
+   "settings_exceptions_title": {
+      "message": "Ausnahmen"
+   },
+   "settings_search_text": {
+      "message": "Prüft die Suchergebnisse, um Sie vor gefährlichen Webseiten zu warnen, noch bevor Sie sie aufrufen."
+   },
+   "settings_search_title": {
+      "message": "Suchberater"
+   },
+   "settings_threat_text": {
+      "message": "Durchsucht jede aufgerufene Seite nach Bedrohungen, Phishing- und anderen Betrugsversuchen."
+   },
+   "settings_threat_title": {
+      "message": "Internet-Schutz"
+   },
+   "settings_tooltip_text": {
+      "message": "Website von der Liste entfernen"
+   },
+   "started_feedback_text": {
+      "message": "Wir freuen uns immer sehr über Vorschläge unserer Nutzer. Über unser Feedback-Formular können Sie jederzeit Kontakt mit uns aufnehmen."
+   },
+   "started_feedback_title": {
+      "message": "Rückmeldung senden"
+   },
+   "started_search_text": {
+      "message": "TrafficLight markiert gefährliche und betrügerische Webseiten in Ihren Suchergebnissen."
+   },
+   "started_search_title": {
+      "message": "Warnt Sie schon in den Suchergebnissen vor gefährlichen Webseiten."
+   },
+   "started_threat_text": {
+      "message": "TrafficLight analysiert aufgerufene Seiten und blockiert solche mit Online-Bedrohungen sowie Phishing- und anderen Betrugsversuchen zuverlässig."
+   },
+   "started_threat_title": {
+      "message": "Schützt Sie vor Online-Bedrohungen, Phishing- und anderen Betrugsversuchen"
+   },
+   "started_tracker_text": {
+      "message": "Tracker sind Code-Abschnitte, die in Websites eingebettet sind, um Ihr Nutzungsverhalten zu verfolgen und zu analysieren. TrafficLight erkennt diese umgehend und listet sie auf."
+   },
+   "started_tracker_title": {
+      "message": "Erkennt Tracker, die Ihr Surf-Verhalten weitergeben"
+   },
+   "started_welcome_text": {
+      "message": "Surfen Sie mit TrafficLight und profitieren Sie von  zuverlässigem und unaufdringlichem Schutz."
+   },
+   "submit_result_failed_text": {
+      "message": "Zustellung fehlgeschlagen"
+   },
+   "text_disabled_recommend": {
+      "message": "Rufen Sie zur Aktivierung die Einstellungen auf."
+   },
+   "text_disabled_search_analyzer": {
+      "message": "Der Suchberater ist deaktiviert. Rufen Sie die Einstellungen auf, um ihn zu aktivieren."
+   },
+   "text_disabled_threat_filter": {
+      "message": "Der Internet-Schutz ist deaktiviert. Rufen Sie die Einstellungen auf, um ihn zu aktivieren."
+   },
+   "text_fraud": {
+      "message": "Diese Seite ist Teil eines Betrugsversuchs."
+   },
+   "text_malware": {
+      "message": "Wir haben Elemente gefunden, die Ihrem Gerät schaden könnten."
+   },
+   "text_miner": {
+      "message": "Die Seite versuchte, die Ressourcen Ihres Geräts zu nutzen, um Kryptowährung zu schürfen, und wurde blockiert."
+   },
+   "text_phish": {
+      "message": "Diese Seite ist Teil eines Phishing-Versuchs."
+   },
+   "text_pua": {
+      "message": "Die Seite versuchte, eine PUA (potenziell unerwünschte Anwendung) auf Ihr Gerät herunterzuladen und wurde blockiert."
+   },
+   "text_untrusted": {
+      "message": "Diese Seite ist vermutlich sicher, es wurden in der Vergangenheit jedoch Sicherheitsrisiken festgestellt."
+   },
+   "text_whitelist": {
+      "message": "Wenn Sie sich sicher sind, dass diese Seite sicher ist, können Sie sie {link}Ihrer Ausnahmeliste{link} hinzufügen."
+   },
+   "text_whitelist_cont": {
+      "message": "Bitte beachten Sie, dass Sie dann nicht mehr vor möglichen Risiken auf dieser Seite gewarnt werden."
+   },
+   "text_whitelist_popup": {
+      "message": "Diese Seite wird beim Scan übersprungen, weil sie zur Ausnahmeliste hinzugefügt wurde."
+   },
+   "text_whitelist_submit": {
+      "message": "Der Ausnahmeliste hinzugefügte URLs werden beim Scannen übersprungen. Sie werden nicht vor Bedrohungen auf diesen Seiten gewarnt."
+   },
+   "text_whitelist_toast": {
+      "message": "Die Webseite wurde zur Ausnahmeliste hinzugefügt"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "Suchergebnisse können nicht gescannt werden"
+   },
+   "title_disabled_threat_filter": {
+      "message": "Diese Seite kann nicht gescannt werden"
+   },
+   "title_fraud": {
+      "message": "Betrugsversuch erkannt"
+   },
+   "title_malware": {
+      "message": "Bedrohung gefunden!"
+   },
+   "title_miner": {
+      "message": "Mining-Versuch erkannt"
+   },
+   "title_phish": {
+      "message": "Phishing-Versuch erkannt"
+   },
+   "title_pua": {
+      "message": "Download einer potenziell unerwünschten Anwendung erkannt"
+   },
+   "title_safe": {
+      "message": "Diese Seite ist sicher"
+   },
+   "title_untrusted": {
+      "message": "Nicht vertrauenswürdige Domain erkannt"
+   },
+   "title_whitelist_popup": {
+      "message": "Diese Seite wird beim Scannen in der aktuellen Browsersitzung übersprungen"
+   },
+   "web_protection_text": {
+      "message": "Surf-Schutz durch"
+   },
+   "web_protection_title": {
+      "message": "Internet-Schutz durch Bitdefender"
+   }
+}

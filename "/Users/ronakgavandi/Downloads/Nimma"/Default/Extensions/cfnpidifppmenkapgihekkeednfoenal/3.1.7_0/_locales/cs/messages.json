@@ -1,0 +1,206 @@
+{
+   "alert_ignore": {
+      "message": "Chápu rizika, chci danou stránku otevřít i tak"
+   },
+   "alert_take_to_safety": {
+      "message": "Zpátky do bezpečí"
+   },
+   "blocked_text_fraud": {
+      "message": "Podvodné stránky se vás obvykle snaží oklamat, abyste jim poslali peníze, za cílem nezákonného zisku."
+   },
+   "blocked_text_malware": {
+      "message": "Škodlivé stránky se snaží nainstalovat software, který může poškodit zařízení, sbírat osobní údaje nebo pracovat bez vašeho vědomí."
+   },
+   "blocked_text_miner": {
+      "message": "Těžařské stránky (miner pages) využívají zdroje zařízení, aby těžily kryptoměnu, což ovlivňuje jeho použitelnost a životnost hardwaru. "
+   },
+   "blocked_text_phish": {
+      "message": "Phishingové stránky se snaží získat cilivé informace, jako jsou přihlašovací údaje nebo údaje kreditní karty, vydáváním se za důvěryhodné subjekty. Ukradené údaje mohou být následně zneužity pro finanční zisk."
+   },
+   "blocked_text_pua": {
+      "message": "Tato stránka se pokusila stáhnout do vašeho zařízení PUA (potenciálně nežádoucí aplikace). Tento typ aplikací vykazuje chování, které ovlivňuje soukromí a bezpečnost vašich zařízení a dat."
+   },
+   "blocked_title_fraud": {
+      "message": "Podvodná stránka zablokována pro vaši ochranu"
+   },
+   "blocked_title_malware": {
+      "message": "Nebezpečná stránka zablokována pro vaši ochranu"
+   },
+   "blocked_title_miner": {
+      "message": "Těžařská stránka byla zablokována kvůli vaší ochraně"
+   },
+   "blocked_title_phish": {
+      "message": "Phishingová stránka zablokována pro vaši ochranu"
+   },
+   "blocked_title_pua": {
+      "message": "Stažení bylo zablokováno pro vaši ochranu"
+   },
+   "checkbox_link_feedback": {
+      "message": "Zahrnout odkaz na aktuální webovou stránku"
+   },
+   "extName": {
+      "message": "Bitdefender TrafficLight přidává silné a neinvazivní vrstvu ochrany vašeho prohlížení."
+   },
+   "extension_name": {
+      "message": "Bitdefender TrafficLight"
+   },
+   "feedback_description_title": {
+      "message": "Popis"
+   },
+   "feedback_mail": {
+      "message": "Emailová adresa"
+   },
+   "feedback_message": {
+      "message": "Zadejte návrh nebo popište problém, na který jste narazili."
+   },
+   "feedback_title": {
+      "message": "Odezva"
+   },
+   "footer_feedback_note": {
+      "message": "Narazili jste na problém?"
+   },
+   "invalid_email_text": {
+      "message": "Prosím zadejte emailovou adresu"
+   },
+   "link_feedback": {
+      "message": "Poslat zpětnou vazbu"
+   },
+   "popup_settings": {
+      "message": "Nastavení"
+   },
+   "popup_text_safe": {
+      "message": "Na této stránce jsme nenašli žádný podezřelý prvek."
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "Níže přidejte nebo odeberte ručně webové stránky:"
+   },
+   "settings_current_website_add_title": {
+      "message": " Přidání aktuální webové stránky do seznamu"
+   },
+   "settings_exceptions_title": {
+      "message": "Výjimky"
+   },
+   "settings_search_text": {
+      "message": "Kontroluje vaše výsledky vyhledávání, aby vás varovala před nebezpečnými stránkami předtím, než je navštívíte."
+   },
+   "settings_search_title": {
+      "message": "Tester odkazů"
+   },
+   "settings_threat_text": {
+      "message": "Prohledá, zda stránky neobsahují hrozby, phishing a podvody."
+   },
+   "settings_threat_title": {
+      "message": "Ochrana webu"
+   },
+   "settings_tooltip_text": {
+      "message": "Odeberte web ze seznamu"
+   },
+   "started_feedback_text": {
+      "message": "Jsme rádi za každou připomínku od našich uživatelů. "
+   },
+   "started_feedback_title": {
+      "message": "Poslat zpětnou vazbu"
+   },
+   "started_search_text": {
+      "message": "TrafficLight flags dangerous and fraudulent webpages in search results."
+   },
+   "started_search_title": {
+      "message": "Poskytuje předběžné varování před rizikovými webovými stránkami ve výsledcích vyhledávání"
+   },
+   "started_threat_text": {
+      "message": "TrafficLight zkoumá a zablokuje stránky, které navštěvujete, při zjištění online hrozeb, phishingu a podvodných pokusech při každém přístupu k nim."
+   },
+   "started_threat_title": {
+      "message": "Chrání před online hrozbami, útoky typu phishing a podvody"
+   },
+   "started_tracker_text": {
+      "message": "\"Tracker\" je část kódu, zahrnutý ve webové stránce, který stopuje a analyzuje vaše chování při vyhledávání. TrafficLight ho rychle identifikuje a zaznamená jej."
+   },
+   "started_tracker_title": {
+      "message": "Identifikoval \"Treckry\", které odesílají zprávy o vašem chování při vyhledávání"
+   },
+   "started_welcome_text": {
+      "message": "Využijte TrafficLight, aby jste přidali silnou a neinvazivní vrstvu ochrany, za účel ochrany vašeho prohlížení. "
+   },
+   "submit_result_failed_text": {
+      "message": "Odeslání se nezdařilo"
+   },
+   "text_disabled_recommend": {
+      "message": "Jděte do Nastavení a povolte to."
+   },
+   "text_disabled_search_analyzer": {
+      "message": "Poradce pro vyhledávání je zakázán. Chcete-li jej povolit, přejděte do nastavení."
+   },
+   "text_disabled_threat_filter": {
+      "message": "Ochrana webu je deaktivována. Chcete-li ji aktivovat, přejděte do Nastavení."
+   },
+   "text_fraud": {
+      "message": "Tato stránka je součástí podvodu."
+   },
+   "text_malware": {
+      "message": "Zjistili jsme prvky, které by mohly poškodit vaše zařízení."
+   },
+   "text_miner": {
+      "message": "Stránka se pokusila použít prostředky vašeho zařízení k těžbě kryptoměny a byla zablokována."
+   },
+   "text_phish": {
+      "message": "Tato stránka obsahuje Phishing."
+   },
+   "text_pua": {
+      "message": "Stránka se pokusila stáhnout PUA (Potenciálně nežádoucí aplikaci) do vašeho zařízení a byla zablokována."
+   },
+   "text_untrusted": {
+      "message": "Tato stránka může být bezpečná, ale v minulosti byli zjištěny nějaké hrozby."
+   },
+   "text_whitelist": {
+      "message": "Pokud víte, že tato stránka není nebezpečná, můžete {link} přidat do Seznamu výjimek{link}."
+   },
+   "text_whitelist_cont": {
+      "message": "Mějte na paměti, že nebudete upozorněni na žádné hrozby na této stránce."
+   },
+   "text_whitelist_popup": {
+      "message": "Tato stránka je ze skenování vynechána, protože byla přidána do seznamu Výjimek."
+   },
+   "text_whitelist_submit": {
+      "message": "Adresy URL přidané do seznamu Výjimek budou při kontrole vynechány. Nebudete upozorněni na žádné hrozby existující na těchto stránkách."
+   },
+   "text_whitelist_toast": {
+      "message": "Webová stránka byla přidána do seznamu výjimek"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "Nemůžeme proskenovat výsledky vyhledávání"
+   },
+   "title_disabled_threat_filter": {
+      "message": "Nemůžeme oskenovat tuto stránku"
+   },
+   "title_fraud": {
+      "message": "Byl detekován pokus o podvod"
+   },
+   "title_malware": {
+      "message": "Zjištěna hrozba!"
+   },
+   "title_phish": {
+      "message": "Detekován pokus o phishing"
+   },
+   "title_pua": {
+      "message": "Bylo zjištěno stažení potenciálně nežádoucí aplikace"
+   },
+   "title_safe": {
+      "message": "Tato stránka je bezpečná"
+   },
+   "title_untrusted": {
+      "message": "Byla zjištěna nedůvěryhodná doména"
+   },
+   "title_whitelist_popup": {
+      "message": "Tato stránka je vynechána ze skenování v aktuální relaci procházení"
+   },
+   "web_protection_text": {
+      "message": "Ochrana webu pomocí"
+   },
+   "web_protection_title": {
+      "message": "Webová Ochrana od Bitdefender"
+   }
+}

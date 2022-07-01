@@ -1,9 +1,12 @@
 package RestAssuredAutomation;
 
 import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
-import static io.restassured.RestAssured.*;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
 import static org.hamcrest.Matchers.*;
 import java.util.*;
 import org.testng.annotations.Test;
@@ -15,6 +18,7 @@ public class GoogleMaps_PojoSerialization {
 	public void crudOperations() {
 		PostJson p = new PostJson();
 		Location l = new Location();
+		
 		List<String> typesLs = new ArrayList<String>();
 		typesLs.add("Pets");
 		typesLs.add("Pet-Shop");
@@ -32,32 +36,29 @@ public class GoogleMaps_PojoSerialization {
 		p.setTypes(typesLs);
 		p.setWebsite("https://lillabismillah.com");
 		
-		// Add Place Rahul Shetty's method
-//		RestAssured.baseURI = "https://rahulshettyacademy.com";
-//		String response = given().log().all()
-//				.queryParam("key", "qaclick123")
-//				.header("Content-Type", "application/json")
-//				.body(p)
-//				.when().post("maps/api/place/add/json")
-//				.then().log().all().assertThat()
-//				.statusCode(200).body("scope", equalTo("APP"))
-//				.body("status", equalTo("OK"))
-//				.header("server", "Apache/2.4.41 (Ubuntu)").extract()
-//				.response().asString();
+		RequestSpecification reqSpec = new RequestSpecBuilder()
+				.setBaseUri("https://rahulshettyacademy.com")
+				.addQueryParam("key", "qaclick123")
+				.setContentType(ContentType.JSON)
+				.setBody(p)
+				.build();
 		
-		// Add Place Amod Mahajan's method
-		String response = RestAssured.given()
-				.baseUri("https://rahulshettyacademy.com")
-				.log().all()
-				.queryParam("key", "qaclick123")
-				.contentType(ContentType.JSON)
-				.body(p)
+		RequestSpecification spec = RestAssured.given()
+				.spec(reqSpec)
+				.log().all();
+		
+		ResponseSpecification resSpec = new ResponseSpecBuilder()
+				.expectHeader("server", "Apache/2.4.41 (Ubuntu)")
+				.expectContentType(ContentType.JSON)
+				.expectStatusCode(200)
+				.expectBody("scope", equalTo("APP"))
+				.expectBody("status", equalTo("OK"))
+				.build();
+		
+		String response = spec
 				.when().post("maps/api/place/add/json")
-				.then().log().all().assertThat()
-				.statusCode(200).body("scope", equalTo("APP"))
-				.body("status", equalTo("OK"))
-				.contentType(ContentType.JSON)
-				.header("server", "Apache/2.4.41 (Ubuntu)").extract()
+				.then().spec(resSpec)
+				.extract()
 				.response().asString();
 		
 		//System.out.println("Response: " + response);

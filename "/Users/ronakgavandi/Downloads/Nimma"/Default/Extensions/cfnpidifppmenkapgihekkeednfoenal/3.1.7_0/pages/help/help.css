@@ -1,0 +1,277 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f0f0f2;
+  font-family: 'Roboto', sans-serif;
+  font-variant-ligatures: none;
+}
+
+.page_container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.settings_title {
+  clear: both;
+  margin-bottom: 70px;
+  margin-top: 40px;
+}
+
+.settings_title:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.tl_logo {
+  background-image: url(../../img/logo-tll.svg);
+  background-repeat: no-repeat;
+  background-size: 60px 60px;
+  height: 60px;
+  padding-left: 82px;
+  float: left;
+}
+
+#company_name {
+  background-image: url(../../img/bitdefender_logo.svg);
+  background-repeat: no-repeat;
+  width: 120px;
+  height: 20px;
+  filter: invert(100%);
+}
+
+#product_name {
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 500;
+}
+
+.page_description {
+  text-align: center;
+  width: 664px;
+  margin: 0 auto;
+  font-size: 30px;
+}
+
+.browser_bar {
+  background-image: url(../../img/browser-bar.png);
+  height: 87px;
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  margin-top: 40px;
+}
+
+.switch_name {
+  height: 20px;
+  float: left;
+  padding-right: 10px;
+  background: #eee url(../../img/row_end.png) no-repeat center right;
+}
+
+.switch {
+  height: 20px;
+  float: right;
+  padding-left: 10px;
+  background: #eee url(../../img/row_end.png) no-repeat center left;
+}
+
+.description {
+  position: absolute;
+  width: 400px;
+  color: #6D6D6D;
+  font-size: 12px;
+}
+
+.description_fb {
+  position: absolute;
+  padding-top: 5px;
+  color: #6D6D6D;
+  font-size: 12px;
+}
+
+.switch_row {
+  width: 100%;
+  height: 10px;
+  margin-bottom: 30px;
+  background: url(../../img/1pxrow.png) repeat-x center bottom;
+}
+
+.switch_container {
+  margin-top: -28px;
+  padding: 20px;
+}
+
+.custom-checkbox {
+  position: relative;
+  float: right;
+  margin-left: 5px;
+}
+
+.custom-checkbox input {
+  z-index: 0;
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  margin: 0;
+}
+
+.custom-checkbox label {
+  z-index: 1;
+  display: block;
+  position: relative;
+  padding-bottom: 5px;
+  cursor: pointer;
+}
+
+.custom-checkbox label {
+  width: 50px;
+  height: 30px;
+  background: url(../../img/checkbox.png) no-repeat center center;
+}
+
+.custom-checkbox label {
+  background-position: 0px -14px;
+}
+
+.custom-checkbox label.focus,
+.custom-checkbox label.hover {
+  background-position: 0px -114px;
+}
+
+.custom-checkbox label.checked {
+  background-position: 0px -214px;
+}
+
+.custom-checkbox label.checkedFocus,
+.custom-checkbox label.checkedHover {
+  background-position: 0px -314px;
+}
+
+.custom-checkbox label.focus {
+  outline: none;
+}
+
+fieldset {
+  margin: 0px;
+  padding: 0px;
+  border: 0;
+}
+
+form {
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer_content {
+  width: 700px;
+  height: 30px;
+  margin: 0 auto;
+}
+
+.footer_stat {
+  float: left;
+  color: #6d6d6d;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.footer_help {
+  float: right;
+  line-height: 10px;
+}
+
+.footer_help a {
+  color: #3c78a2;
+  text-decoration: underline;
+  font-size: 12px;
+}
+
+.logo {
+  width: 60px;
+  height: 31px;
+  clear: both;
+  margin: 25px auto;
+  background: url(../../img/footer_logo.png) no-repeat;
+}
+
+ul.learn_about_it {
+  margin: 60px 0 0 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid #d7d7d9;
+  margin-bottom: 30px;
+}
+
+ul.learn_about_it li {
+  position: relative;
+  min-height: 320px;
+  border-bottom: 1px solid #d7d7d9;
+}
+
+ul.learn_about_it li:last-child {
+  border-bottom: none;
+}
+
+.cat_text {
+  width: 330px;
+  display: table-cell;
+  vertical-align: middle;
+  height: 320px;
+}
+
+.cat_text.right {
+  padding-left: 490px;
+}
+
+.cat_name {
+  clear: both;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.cat_description {
+  color: #6D6D6D;
+  font-size: 16px;
+}
+
+.cat_image {
+  position: absolute;
+  top: 40px;
+  right: 0;
+  width: 418px;
+  height: 234px;
+  border: 1px solid #dfdfdf;
+}
+
+.cat_image_left {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 418px;
+  height: 234px;
+  border: 1px solid #dfdfdf;
+}
+
+.install_done {
+  background: url(../../img/install_done.png) no-repeat;
+}
+
+.set_app {
+  background: url(../../img/set_app.png) no-repeat;
+}
+
+.auto_block {
+  background: url(../../img/auto_block.png) no-repeat;
+}
+
+.link_scanner {
+  background: url(../../img/link_scanner.png) no-repeat;
+}
+
+.trackers_found {
+  background: url(../../img/trackers_found.png) no-repeat;
+}
+
+.leave_feedback {
+  background: url(../../img/leave_feedback.png) no-repeat;
+}

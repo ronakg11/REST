@@ -1,0 +1,212 @@
+{
+   "alert_ignore": {
+      "message": "リスクを理解し、容認した上で進みます。"
+   },
+   "alert_take_to_safety": {
+      "message": "安全なページへ戻る"
+   },
+   "blocked_text_fraud": {
+      "message": "悪意のある危険なページは通常、ユーザーを騙してお金を送金させようと試みます。"
+   },
+   "blocked_text_malware": {
+      "message": "危険なページは、ユーザーのデバイスに損害を与える危険のあるソフトウェアをインストールしようと試みたり、個人情報を収集したり、ユーザーの同意なくデバイスを不正に操作する場合があります。"
+   },
+   "blocked_text_miner": {
+      "message": "マイニングページは、デバイスのリソースを利用して仮想通貨を採掘するため、デバイスの利用可能性とハードウェア寿命に悪影響を与えます。"
+   },
+   "blocked_text_phish": {
+      "message": "フィッシングページは、安心できるサイトのように偽装することで、ログイン情報やクレジットカード情報などの個人データを盗み出そうとします。盗まれたデータによって、金銭的な被害が生じる恐れがあります。"
+   },
+   "blocked_text_pua": {
+      "message": "このページは PUA (望ましくない可能性があるアプリケーション)をデバイスにダウンロードしようとしました。この種類のアプリケーションは、デバイスとデータのプライバシーとセキュリティに悪影響をおよぼす恐れがあります。"
+   },
+   "blocked_title_fraud": {
+      "message": "詐欺の危険が含まれるページが、セキュリティ保護のためブロックされました"
+   },
+   "blocked_title_malware": {
+      "message": "危険なページが、セキュリティ保護のためブロックされました"
+   },
+   "blocked_title_miner": {
+      "message": "マイニングページが保護のためブロックされました"
+   },
+   "blocked_title_phish": {
+      "message": "セキュリティ保護のため、フィッシング詐欺ページをブロックしました"
+   },
+   "blocked_title_pua": {
+      "message": "ダウンロードが保護のためブロックされました。"
+   },
+   "checkbox_link_feedback": {
+      "message": "現在のウェブサイトのリンクを含める"
+   },
+   "extName": {
+      "message": "Bitdefender TrafficLightを利用すれば、強固なセキュリティに守られ、より安全にwebをブラウジングすることができます。"
+   },
+   "extension_name": {
+      "message": "Bitdefender TrafficLight"
+   },
+   "feedback_description_title": {
+      "message": "説明"
+   },
+   "feedback_mail": {
+      "message": "メールアドレス"
+   },
+   "feedback_message": {
+      "message": "ご提案を入力するか、あるいは発生した問題の説明を入力してください。"
+   },
+   "feedback_title": {
+      "message": "フィードバックを送信"
+   },
+   "footer_feedback_note": {
+      "message": "問題が発生したら"
+   },
+   "invalid_email_text": {
+      "message": "メール アドレスを入力してください."
+   },
+   "invalid_feedback_message_text": {
+      "message": "発生した問題についての説明を入力してください。"
+   },
+   "link_feedback": {
+      "message": "フィードバックを送信する"
+   },
+   "popup_settings": {
+      "message": "設定"
+   },
+   "popup_text_safe": {
+      "message": "このページに疑わしい要素はありません。"
+   },
+   "product_name": {
+      "message": "TrafficLight"
+   },
+   "settings_add_field_title": {
+      "message": "以下でウェブサイトを手動で追加または削除できます。:"
+   },
+   "settings_current_website_add_title": {
+      "message": " 現在のウェブサイトをリストに追加"
+   },
+   "settings_exceptions_title": {
+      "message": "例外に登録"
+   },
+   "settings_search_text": {
+      "message": "検索結果をチェックし、危険なウェブページにアクセスする前に警告します。"
+   },
+   "settings_search_title": {
+      "message": "サーチ・アドバイザー"
+   },
+   "settings_threat_text": {
+      "message": "アクセスするすべてのウェブページに、脅威やフィッシング、およびその他の詐欺などの危険がないかチェックします。"
+   },
+   "settings_threat_title": {
+      "message": "webからの防御"
+   },
+   "settings_tooltip_text": {
+      "message": "ウェブサイトをリストから削除"
+   },
+   "started_feedback_text": {
+      "message": "お客様からのご意見は製品改善の貴重な情報となります。フィードバック機能からご意見をお送りください。"
+   },
+   "started_feedback_title": {
+      "message": "フィードバックを送信する"
+   },
+   "started_search_text": {
+      "message": "検索結果: TrafficLight は、検索結果内の危険なサイトや詐欺 Web ページを通知します。"
+   },
+   "started_search_title": {
+      "message": "検索結果内の危険なWebサイトを事前に検知してお知らせします。"
+   },
+   "started_threat_text": {
+      "message": "TrafficLight は訪問したページを毎回スキャンし、オンライン脅威、フィッシング、詐欺などの危険を検出した場合にはそれらをブロックします。"
+   },
+   "started_threat_title": {
+      "message": "オンライン脅威、フィッシング、詐欺などの攻撃から保護します。"
+   },
+   "started_tracker_text": {
+      "message": "トラッカーとは、ユーザーのブラウジング傾向を収集する、webページ内に埋め込まれたコードです。 TrafficLight はこれらを素早く検出し、一覧表示します。"
+   },
+   "started_tracker_title": {
+      "message": "ブラウジング情報を収集する「トラッカー」を検出します"
+   },
+   "started_welcome_text": {
+      "message": "TrafficLightを利用すれば、強固なセキュリティに守られ、より安全にwebをブラウジングすることができます。"
+   },
+   "submit_result_failed_text": {
+      "message": "送信に失敗しました"
+   },
+   "text_disabled_recommend": {
+      "message": "設定から有効にする。"
+   },
+   "text_disabled_search_analyzer": {
+      "message": "検索アドバイザーは無効です。設定から有効にすることができます。"
+   },
+   "text_disabled_threat_filter": {
+      "message": "Web保護は無効です。設定から有効にすることができます。"
+   },
+   "text_fraud": {
+      "message": "このページは詐欺サイトです。"
+   },
+   "text_malware": {
+      "message": "デバイスへ被害を加える可能性がある要素を検出しました。"
+   },
+   "text_miner": {
+      "message": "こののページは、お使いのデバイスのリソースを無断で利用して仮想通貨のマイニングを行おうとしたためブロックされました。"
+   },
+   "text_phish": {
+      "message": "このページはフィッシング詐欺サイトです。"
+   },
+   "text_pua": {
+      "message": "このページは、お使いのデバイスに PUA (望ましくない可能性があるアプリ) をダウンロードしようと試みたためブロックされました。"
+   },
+   "text_untrusted": {
+      "message": "このページは安全ですが、過去にセキュリティ問題が報告されています。"
+   },
+   "text_whitelist": {
+      "message": "この URL が危険でないことがわかっている場合は、 {link}例外リストに追加{link}できます。"
+   },
+   "text_whitelist_cont": {
+      "message": "リストに追加したあとは、このページに存在する脅威について一切警告が出なくなるため、慎重に追加していください。"
+   },
+   "text_whitelist_popup": {
+      "message": "このページは、除外リストに追加されているためスキャンから除外されます。"
+   },
+   "text_whitelist_submit": {
+      "message": "除外リストに追加された URL はスキャンから除外されます。これらのページに存在する脅威について一切警告が出なくなるため、慎重に追加していください。"
+   },
+   "text_whitelist_toast": {
+      "message": "このウェブページは例外リストに追加されました"
+   },
+   "title_disabled_search_analyzer": {
+      "message": "検索結果をスキャンできません"
+   },
+   "title_disabled_threat_filter": {
+      "message": "このページは検査できません。"
+   },
+   "title_fraud": {
+      "message": "詐欺の試みを検出しました"
+   },
+   "title_malware": {
+      "message": "脅威を検出しました！"
+   },
+   "title_miner": {
+      "message": "マイニングの試みが検出されました"
+   },
+   "title_phish": {
+      "message": "フィッシング攻撃が検出されました"
+   },
+   "title_pua": {
+      "message": "望ましくない可能性があるアプリのダウンロードが検出されました"
+   },
+   "title_safe": {
+      "message": "このページは安全です。"
+   },
+   "title_untrusted": {
+      "message": "信頼されていないドメインが検出されました"
+   },
+   "title_whitelist_popup": {
+      "message": "このページは、現在のブラウジングセッションでスキャン対象から除外されます"
+   },
+   "web_protection_text": {
+      "message": "web 保護"
+   },
+   "web_protection_title": {
+      "message": "Bitdefender による Web 保護"
+   }
+}

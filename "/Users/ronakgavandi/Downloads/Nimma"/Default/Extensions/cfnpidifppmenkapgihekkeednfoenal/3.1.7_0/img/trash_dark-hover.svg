@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>delete / hover / dark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="delete-/-hover-/-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="delete-on" stroke="#2966CC" stroke-width="1.2">
+            <g id="Group-13-Copy">
+                <path d="M11.690048,15.744064 L3.528768,15.744064 C2.709568,15.744064 2.045248,15.079744 2.045248,14.260544 L1.902528,2.297664 L13.316928,2.297664 L13.173568,14.260544 C13.173568,15.079744 12.509248,15.744064 11.690048,15.744064 Z" id="Stroke-1"></path>
+                <line x1="6.4e-05" y1="2.20128" x2="15.218624" y2="2.20128" id="Stroke-3"></line>
+                <line x1="5.142912" y1="14.498112" x2="5.142912" y2="3.543232" id="Stroke-5"></line>
+                <line x1="7.609472" y1="14.498112" x2="7.609472" y2="3.543232" id="Stroke-7"></line>
+                <line x1="10.076032" y1="14.498112" x2="10.076032" y2="3.543232" id="Stroke-9"></line>
+                <path d="M11.539776,2.008768 L3.679296,2.008768 L3.679296,1.755968 C3.679296,0.998208 4.293056,0.383808 5.050816,0.383808 L10.167616,0.383808 C10.926016,0.383808 11.539776,0.998208 11.539776,1.755968 L11.539776,2.008768 Z" id="Stroke-11"></path>
+            </g>
+        </g>
+    </g>
+</svg>
